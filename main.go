@@ -29,7 +29,7 @@ func main() {
 			fmt.Printf("The first names of bookings are: %v\n", firstNames)
 
 			if remainingTickets == 0 {
-				//end program
+
 				fmt.Println("Our Conversation is booked out.")
 				break
 			}
